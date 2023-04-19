@@ -24,13 +24,12 @@ The data preprocessing involves downloading the necessary datasets, parsing the 
 
 ## Implement a Transformer
 
-This section provides an overview of the Transformer architecture and describes the implementation of the custom transformer layer. The transformer architecture consists of three components:
+This section provides an overview of the Transformer architecture and describes the implementation of the custom transformer layer. The transformer architecture consists of 4 components:
 
-1. Encoder
-2. Decoder
-3. Cross-Attention
-
-In this project, we implement a custom transformer layer that consists of a positional embedding layer, a transformer encoder layer, and a transformer decoder layer.
+1. Embedder
+2. Positional Encoding
+3. Encoder
+4. Decoder
 
 ## Train the Model
 
@@ -42,4 +41,4 @@ Finally, this section shows how to use the trained model to translate new Englis
 
 ## Conclusion
 
-This project shows how to use a custom transformer layer to translate English sentences to Spanish. The transformer layer was implemented and trained on the prepared dataset. Inference on new sentences was also demonstrated.
+This project shows how to use a custom transformer layer to translate English sentences to Spanish. The transformer layer was implemented and trained on the prepared dataset. Successful translation on new sentences into Spanish was achieved.
