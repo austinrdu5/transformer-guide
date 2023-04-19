@@ -2,7 +2,7 @@
 
 This project uses a custom transformer layer to translate English sentences to Spanish.
 
-## Contents
+## Contents of the Jupyter Notebook
 
 1. [Data Preprocessing](#data-preprocessing)
     - Downloading
