@@ -18,7 +18,7 @@ Transformers have revolutionized how we handle tasks like machine translation, t
 To get the most out of this notebook, a basic understanding of:
 
 * Python
-* PyTorch or TensorFlow (depending on the implementation used in the notebook)
+* PyTorch Fundamentals
 * Fundamental machine learning concepts
 
 would be beneficial.
