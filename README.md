@@ -1,5 +1,3 @@
-Absolutely! Here's a README draft tailored to a Jupyter notebook focused on understanding Transformers:
-
 # Demystifying Transformers: An Interactive Guide
 
 This Jupyter notebook is your comprehensive, hands-on introduction to the Transformer architecture, a groundbreaking innovation in the world of natural language processing (NLP).
